@@ -1,0 +1,15 @@
+
+h1{
+    color: brown;
+}
+table{      
+    margin: 2px;
+    padding: 8px;
+    border: 5px solid black;
+}
+.button:hover{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+
+}
